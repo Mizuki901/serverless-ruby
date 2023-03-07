@@ -1,4 +1,4 @@
-FROM ruby:3.2.1
+FROM ruby:2.7
 ENV LANG C.UTF-8
 
 WORKDIR /app
